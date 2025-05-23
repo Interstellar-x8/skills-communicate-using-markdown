@@ -6,3 +6,7 @@
 ``` javascript
 var myVar = "Hello, world!";
 ```
+Task List
+- [ ] List syntax is required
+- [ ] This item is complete
+- [ ] This item is not complete
